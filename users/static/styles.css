@@ -134,6 +134,10 @@ li {
     font-size: 12px;
 }
 
+p {
+    color: red;
+}
+
 @media (min-width: 0px){
 .form_container {
     max-width: 396px;
